@@ -1,9 +1,8 @@
-- 👋 ola, meu nome é @Notvitorinha
-- meu email de contato é souza.silva.maria1302@escola.pr.gov.br
-- 👀 eu estou interessada em
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ola, meu nome é maria vitoria
+
+souza.silva.maria1302@escola.pr.gov.br
+
+@souzavitorinha_
 
 <!---
 Notvitorinha/Notvitorinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
